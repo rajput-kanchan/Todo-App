@@ -48,7 +48,8 @@ Setup and Running the Application -
 
 Clone the repository:
 
-- git clone https://github.com/yourusername/todo-app.git
+- git clone https://github.com/rajput-kanchan/Todo-App.git
+
 - cd todo-app/frontend
 - npm install
 - npm start
